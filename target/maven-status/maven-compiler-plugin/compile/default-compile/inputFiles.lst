@@ -1,0 +1,17 @@
+/Users/misaevazquez/Documents/Java/demo2/src/main/java/com/example/demo/DemoApplication.java
+/Users/misaevazquez/Documents/Java/demo2/src/main/java/com/example/demo/model/ModelApiResponse.java
+/Users/misaevazquez/Documents/Java/demo2/src/main/java/org/openapitools/configuration/OpenAPIDocumentationConfig.java
+/Users/misaevazquez/Documents/Java/demo2/src/main/java/com/example/demo/model/Category.java
+/Users/misaevazquez/Documents/Java/demo2/src/main/java/com/example/demo/api/ApiUtil.java
+/Users/misaevazquez/Documents/Java/demo2/src/main/java/com/example/demo/api/UserApiController.java
+/Users/misaevazquez/Documents/Java/demo2/src/main/java/org/openapitools/RFC3339DateFormat.java
+/Users/misaevazquez/Documents/Java/demo2/src/main/java/com/example/demo/api/PetApiController.java
+/Users/misaevazquez/Documents/Java/demo2/src/main/java/com/example/demo/model/Tag.java
+/Users/misaevazquez/Documents/Java/demo2/src/main/java/com/example/demo/api/PetApi.java
+/Users/misaevazquez/Documents/Java/demo2/src/main/java/org/openapitools/configuration/HomeController.java
+/Users/misaevazquez/Documents/Java/demo2/src/main/java/com/example/demo/api/StoreApiController.java
+/Users/misaevazquez/Documents/Java/demo2/src/main/java/com/example/demo/api/StoreApi.java
+/Users/misaevazquez/Documents/Java/demo2/src/main/java/com/example/demo/model/User.java
+/Users/misaevazquez/Documents/Java/demo2/src/main/java/com/example/demo/api/UserApi.java
+/Users/misaevazquez/Documents/Java/demo2/src/main/java/com/example/demo/model/Pet.java
+/Users/misaevazquez/Documents/Java/demo2/src/main/java/com/example/demo/model/Order.java
