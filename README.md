@@ -16,3 +16,7 @@ You can view the api documentation in swagger-ui by pointing to
 http://localhost:8080/
 
 Change default port value in application.properties# OpenAPI-Spring-Generator
+
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKWdGmo3LokO1SQfbSLpDUw13sVH/1p1KDtumhz9PXbu aguerrasantos@US-L2FK7PP70J
+
